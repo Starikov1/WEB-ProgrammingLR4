@@ -1,0 +1,46 @@
+.header-label
+{
+	border-bottom: solid 2px black;
+}
+
+.header-label div
+{
+	display: inline-block;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.header-label div span
+{
+	font-size: 22px;
+	font-family: Cooper Black;
+}
+
+.main-and-smth div
+{
+	display: inline-block;
+	width: 75%;
+}
+
+.spreadsheet
+{
+	width: 100%;
+	margin-top: 5%;
+}
+
+.spreadsheet td
+{
+	width: 33%;
+}
+
+#all-3
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.width-input
+{
+	width: 90%;
+}
